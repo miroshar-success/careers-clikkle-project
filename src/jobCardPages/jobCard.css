@@ -1,0 +1,25 @@
+.arrow-button {
+    color: blue;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px;
+    padding: 10px 8px; 
+    }
+  button:hover {
+    background-color: rgb(37, 103, 211);
+    color: #000000;
+  }
+  .content{
+    margin-top: 10px;
+    color: #898585;
+    
+    
+    
+  
+  }
+  
+  .row8{
+    grid-column: span;
+    padding-top: 50px;
+    
+  }
